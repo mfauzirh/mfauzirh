@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @mfauzirh
-- 👀 I’m interested in Android Developer And Robotics
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on Android Development
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning on :
+    * front-end web development
+    * data-science
+    * android development
+- 💞️ I’m looking to collaborate on project that i'm interested
 - 📫 How to reach me ...
 
 <!---
