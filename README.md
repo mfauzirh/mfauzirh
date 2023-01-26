@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  <strong>Greeting people ~ I'm Old Cat</strong>
+  <strong>Greeting people ~ I'm Paw's</strong>
 </h3>
 
 <p align="center">
