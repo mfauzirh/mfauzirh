@@ -29,7 +29,7 @@
  </div>
 </div>
 
-<br><br><br>
+<br><br>
 
 <img src="./images/takagi-sleep.jpg" width="100%">
 
