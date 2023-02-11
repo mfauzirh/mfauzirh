@@ -13,7 +13,7 @@
 
    &nbsp;&#10022; Currently studying **Informatics Engineering**
 
-   &nbsp;&#10022; Have good understanding of  **HTML, CSS, Javascript, PHP, MongoDB, MySQL**
+   &nbsp;&#10022; Have good understanding of  **HTML, CSS, JS, Node JS, PHP, MongoDB, MySQL**
 
    &nbsp;&#10022; Familiar with  **Java, Python, C, PostgreSQL**
    
