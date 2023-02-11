@@ -4,7 +4,7 @@
 <img align="left" width="30%" src="./images/long-banner.jpg">
 
  <div>
- <img src="./images/about.jpg" width="68%">
+ <img src="./images/about.jpg" width="66%">
  <p align="right">
 
 &nbsp;- Just test 1
