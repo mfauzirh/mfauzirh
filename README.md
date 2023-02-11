@@ -21,6 +21,8 @@
 
    &nbsp;&#10022; Have understanding in **Bahasa (native), English (good), 日本語 (a little bit)**
    
+   &nbsp;&#10022; My current goals is **To become Fullstack developer, Get N5 日本語 certificate**
+   
    &nbsp;&#10022; Let's talk about **Web development, Tech & Anime stuff**
    
    &nbsp;&#10022; Reach me at **mfauzirizkih@gmail.com**
@@ -29,7 +31,7 @@
  </div>
 </div>
 
-<br><br>
+<br>
 
 <img src="./images/takagi-sleep.jpg" width="100%">
 
