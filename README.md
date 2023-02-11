@@ -2,4 +2,4 @@
 
 <img src="./images/long-banner.jpg" width="300" align="right">
 
-<img src="./images/about-me.jpg" width="500">
+<img src="./images/about.jpg" width="650">
