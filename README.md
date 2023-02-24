@@ -13,13 +13,13 @@
 
    &nbsp;&#10022; Currently studying **Informatics Engineering**
 
-   &nbsp;&#10022; Have good understanding of  **HTML, CSS, JS, Node JS, PHP, MongoDB, MySQL**
+   &nbsp;&#10022; Have good understanding of  **HTML, CSS, JS, Node JS, MongoDB, MySQL**
 
-   &nbsp;&#10022; Familiar with  **Java, Python, C, PostgreSQL**
+   &nbsp;&#10022; Familiar with  **PHP, Python**
    
-   &nbsp;&#10022; In my progress of learning **Java, Spring, Microservices**
+   &nbsp;&#10022; In my progress of learning **C#, ASP.NET**
 
-   &nbsp;&#10022; Have understanding in **Bahasa (native), English (good), 日本語 (a little bit)**
+   &nbsp;&#10022; Have understanding in **Bahasa (native), English (fluent), 日本語 (a little bit)**
    
    &nbsp;&#10022; My current goals is **To become Fullstack developer, Get N5 日本語 certificate**
    
