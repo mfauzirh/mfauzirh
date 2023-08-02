@@ -1,46 +1,37 @@
-<img src="./images/wide-banner.jpg">
+<img src="./assets/images/herobanner.png">
+
+<br>
 
 <div>
- <img align="left" width="30%" src="./images/long-banner.jpg">
-
  <div>
-  <img src="./images/about.jpg" width="67%">
+  <img src="./assets/images/haruhiro.png" align="left">
   <p align="right">
 
-   &nbsp;&#10022; My name is **Paw**
+   &nbsp;
+    
+   &nbsp;&#10022; Just call me **Old Cat**
 
-   &nbsp;&#10022; I live in **Bandung, Indonesia**
+   &nbsp;&#10022; Currently pursuing an applied bachelor's degree in **informatics engineering**
 
-   &nbsp;&#10022; Currently studying **Informatics Engineering**
+   &nbsp;&#10022; Have good understanding of Web Development
 
-   &nbsp;&#10022; Have good understanding of  **Vue.Js, React.Js Node, MongoDB, MySQL**
+   &nbsp;&#10022; Have understanding in Bahasa (native), English (fluent), 日本語 (a little bit)
 
-   &nbsp;&#10022; Familiar with  **PHP, Python**
+   &nbsp;&#10022; My current goals is To become Fullstack Web Developer, and Get N5 日本語 certificate
    
-   &nbsp;&#10022; In my progress of learning **C#, ASP.NET**
-
-   &nbsp;&#10022; Have understanding in **Bahasa (native), English (fluent), 日本語 (a little bit)**
-   
-   &nbsp;&#10022; My current goals is **To become Fullstack developer, Get N5 日本語 certificate**
-   
-   &nbsp;&#10022; Let's talk about **Web development, Tech & Anime stuff**
-   
-   &nbsp;&#10022; Reach me at **mfauzirizkih@gmail.com**
+   &nbsp;&#10022; Let's talk about Web development, Security, And Anime stuff
    
   </p>
  </div>
 </div>
 
-<br>
+<br><br><br><br><br><br>
 
-<img src="./images/takagi-sleep.jpg" width="100%">
-
-<img src="./images/long-banner-2.jpg" align="right" height="500">
+<img src="./assets/images/yume.png" align="right" height="600">
 
 <div>
  <h4>&#10022; I'm familiar with this language &#8628;</h4>
- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
- <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+ <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
@@ -60,6 +51,10 @@
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> 
  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> 
+
+ <h4>&#10022; I implement devops using &#8628;</h4>
+ <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
+ <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
  
  <h4>&#10022; I can also do designs using &#8628;</h4>
  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> 
@@ -73,5 +68,31 @@
  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"> 
  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine">
  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+ <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
+<br><br><br><br><br>
+
+<div>
+ <div>
+  <img src="./assets/images/mary.png" align="left">
+  <p align="right">
+
+   &nbsp;
+   
+   &nbsp;
+    
+   &nbsp;&#10022; Feel free to reach me at: &#10022;
+
+   &nbsp; 
+   <a href="https://discord.com/users/1122382759990657044" target="_blank"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+   <a href="https://www.instagram.com/oldcat.ash" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+
+   &nbsp;&#10022; I ussualy use Discord for chatting with friends.
+   
+   &nbsp;&#10022; I use Instagram for uploading my drawing content.
+   
+  </p>
+ </div>
+</div>
