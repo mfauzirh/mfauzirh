@@ -28,7 +28,7 @@ I'm a passionate Software Developer with a strong foundation in software develop
 </div>
 
 <br>
-<h2 align="center">Technologies & Skills 🔥</h1>
+<h2 align="center">Technologies & Skills</h1>
 <h4>Programming Languages</h4>
 <p>
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
