@@ -1,25 +1,27 @@
 <img src="./assets/images/herobanner.png">
 
-<br>
+<h1 align="center">Hi there, I'm Muhammad Fauzi 👋</h1>
+I'm a passionate Software Developer with a strong foundation in software development, proficient in applying core principles of software development and experienced with various technologies and frameworks to tackle complex problems.
 
+<br>
 <div>
  <div>
-  <img src="./assets/images/haruhiro.png" align="left">
+  <img src="./assets/images/haruhiro.png" align="left" width="200px">
   <p align="right">
 
    &nbsp;
     
-   &nbsp;&#10022; Just call me **Old Cat**
+   &nbsp;&#10022; **Old cat** is my code name, you may know me as Fauzi.
 
-   &nbsp;&#10022; Currently pursuing an applied bachelor's degree in **informatics engineering**
+   &nbsp;&#10022; Currently working as a full-time **software developer** in Indonesia.
 
-   &nbsp;&#10022; Have good understanding of Web Development
+   &nbsp;&#10022; Have good understanding of Backend and Frontend Development.
 
-   &nbsp;&#10022; Have understanding in Bahasa (native), English (fluent), 日本語 (a little bit)
+   &nbsp;&#10022; Have understanding in **Bahasa** (native), **English** (fluent), **日本語** (newbie).
 
-   &nbsp;&#10022; My current goals is To become Fullstack Web Developer, and Get N5 日本語 certificate
+   &nbsp;&#10022; Loves programming, camping and watch anime.
    
-   &nbsp;&#10022; Let's talk about Web development, Security, And Anime stuff
+   &nbsp;&#10022; Nice to meet you!
    
   </p>
  </div>
