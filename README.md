@@ -1,10 +1,10 @@
 <img src="./assets/images/herobanner.gif">
 
-<h1 align="center">Hello traveler, I'm Fauzi (Old Cat) 👋</h1>
+<h1 align="center">Hello Traveler, I'm Fauzi (Old Cat) 👋</h1>
 I'm a passionate Software Developer with a strong foundation in software development, proficient in applying core principles of software development and experienced with various technologies and frameworks to tackle complex problems.
 
 <br>
-<hr>
+
 <div>
  <div>
   <img src="./assets/images/haruhiro.png" align="left" width="200px">
@@ -26,6 +26,13 @@ I'm a passionate Software Developer with a strong foundation in software develop
    
   </p>
  </div>
+</div>
+
+<br>
+<br>
+
+<div>
+    <h2 align="center">Thing</h2>
 </div>
 
 <br>
