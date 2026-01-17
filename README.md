@@ -27,9 +27,10 @@ I'm a passionate Software Developer with a strong foundation in software develop
   </p>
  </div>
 </div>
+
 <br>
-<hr>
 <br>
 <br>
+
 <img src="./assets/images/goodbye.gif" width="100%" height="56%">
 <p align="center">Thanks for visiting, bye 👋</p>
