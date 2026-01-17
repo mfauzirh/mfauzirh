@@ -1,4 +1,4 @@
-<img src="./assets/images/herobanner.png">
+<img src="./assets/images/herobanner.gif">
 
 <h1 align="center">Hi there, I'm Muhammad Fauzi 👋</h1>
 I'm a passionate Software Developer with a strong foundation in software development, proficient in applying core principles of software development and experienced with various technologies and frameworks to tackle complex problems.
