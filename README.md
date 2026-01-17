@@ -29,6 +29,7 @@ I'm a passionate Software Developer with a strong foundation in software develop
 
 <br>
 
+<div>
 <h2 align="center">Technologies & Skills 🔥</h1>
 <h4>Programming Languages</h4>
 <p>
@@ -69,16 +70,4 @@ I'm a passionate Software Developer with a strong foundation in software develop
  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
-<!-- <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="docker" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="54" height="54" style="vertical-align:top; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="54" height="54" style="vertical-align:top; margin:4px;">
-</p> -->
+</div>
